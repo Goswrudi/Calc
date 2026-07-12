@@ -1,0 +1,1 @@
+# Making a kind of calcultor which perform all calculation regarding statistics (mode , median , avg , standard deviation , max , min )   
